@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
         <div class="title">
-        <h1>Cursos de Udemy Html</h1>
+        <h1>Cursos de Prácticas</h1>
         </div>
         </div>
     </div>

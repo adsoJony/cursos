@@ -21,7 +21,6 @@
         <p>los elementos flexibles pueden disponerse en una sola linea o variass lineas (renglones) de acuerdo con la propiedad <strong>flex-wrap</strong> que controlan la dirección del eje secundario y la dirección en la que las nuevas lineas se apilan.</p>
     </div>
 
-
     <div class="container">
         <div class="title">
         <h3>No-Wrap</h3>
